@@ -1,0 +1,30 @@
+{
+  "name": "olha_shevchenko",
+  "version": "1.0.0",
+  "description": "business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/shev950/olha_shevchenko.git"
+  },
+  "author": "Olha Shevchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/shev950/olha_shevchenko/issues"
+  },
+  "homepage": "https://gitlab.com/shev950/olha_shevchenko#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "imagemin-optipng": "^7.1.0",
+    "imagemin-svgo": "^7.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
