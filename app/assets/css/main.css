@@ -1595,7 +1595,6 @@ button,
         height: auto !important; }
         .box.style1 .image img {
           position: relative;
-          height: auto;
           width: 100%; }
       .box.style1 .inner {
         margin: 0 !important;
